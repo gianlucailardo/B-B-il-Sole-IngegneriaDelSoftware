@@ -4,9 +4,9 @@ Il sistema ha l’obiettivo di aiutare il proprietario della catena di B&B a ten
 dell’andamento delle proprie strutture e sostenere il cliente semplificando le procedure di 
 prenotazione.
 Sono stati realizzati i documenti RAD ed SDD dove è mostrata la realizzazione del nostro sistema.
-Contribuienti:
-Gianluca Ilardo
-Gianfranco Terrazzano
-Ilaria Scuotto
+Contribuenti:
+- [Gianluca Ilardo](https://github.com/gianlucailardo)
+- [Gianfranco Terrazzano](https://github.com/Gianf01)
+- [Ilaria Scuotto](https://github.com/ilariascuotto)
+- [Giuseppe Orlando](https://github.com/Giusorl)
 Francesco Zibaldo
-Giuseppe Orlando
